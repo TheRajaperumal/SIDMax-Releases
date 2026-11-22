@@ -1,20 +1,41 @@
-# SIDMax Automation Suite - Official Releases
+# SIDMax Automation Suite · Official Releases Hub
 
-Welcome to the official public distribution and release hub for the **SIDMax Automation Suite**.
+Welcome to the official public distribution and release hub for the **SIDMax Engineering Automation Suite**.
 
-This repository hosts official installers, auto-update bundles, and version packages for SIDMax desktop applications and AutoCAD plugins.
+This repository organizes official installers, auto-update manifests, and release packages across all SIDMax products into dedicated product subfolders.
 
 ---
 
-## 🚀 Products & Downloads
+## 📁 Product Directories & Setup Files
 
-### 1. RebarCraft Companion (RCC)
-*High-performance automated rebar detailing & bar bending schedule (BBS) engineering suite for Autodesk AutoCAD (2018–2026).*
+| Product Folder | Description | Latest Version | Direct Setup Link |
+| :--- | :--- | :--- | :--- |
+| [📁 **`RebarStudio/`**](./RebarStudio/) | Local-first PDF review and reinforcement detailing workstation | **v1.0.2** | [Download Installer (.exe)](https://github.com/TheRajaperumal/SIDMax-Releases/releases/download/v1.0.2/RebarStudio-Setup-1.0.2.exe) |
+| [📁 **`RebarCraft_Companion/`**](./RebarCraft_Companion/) | Automated rebar detailing & BBS engineering suite for AutoCAD (2018–2026) | **v0.10.0** | [View Setup Package](https://github.com/TheRajaperumal/SIDMax-Releases/releases/tag/v0.10.0) |
 
-* **Latest Release:** [v0.10.0](https://github.com/TheRajaperumal/SIDMax-Releases/releases/latest)
-* **Installer:** `SIDMax_RDA_v0.10.0_Setup_WPF.exe`
-* **Update Package:** `SIDMax_Update.zip`
-* **License & System Requirements:** Windows 10/11 x64, Autodesk AutoCAD 2018–2026.
+---
+
+## 🚀 Repository Structure
+
+```
+SIDMax-Releases/
+├── RebarStudio/
+│   ├── README.md               # Version matrix, release notes & direct download links
+│   └── latest.yml              # electron-updater manifest for background auto-updates
+├── RebarCraft_Companion/
+│   └── README.md               # AutoCAD plugin releases and setup instructions
+├── .gitignore
+└── README.md
+```
+
+---
+
+## ⚡ Auto-Update Support
+
+Desktop applications in the SIDMax suite (such as **Rebar Studio**) integrate native in-app auto-updating:
+- Applications anonymously query this repository for new versions.
+- Background downloads stream silently with real-time percentage progress bars.
+- One-click restart applies updates in ~2 seconds without running external setup wizards.
 
 ---
 
