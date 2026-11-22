@@ -1,0 +1,9 @@
+# Binaries and archives should be uploaded to GitHub Releases, not git tree
+*.exe
+*.dll
+*.zip
+*.msi
+*.pdb
+*.log
+.DS_Store
+Thumbs.db
