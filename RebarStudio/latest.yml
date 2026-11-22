@@ -1,8 +1,8 @@
 version: 1.0.2
 files:
   - url: RebarStudio-Setup-1.0.2.exe
-    sha512: r1UeuI7qKv5CcMBF14Qlf2YFgQ2i122ttSB8ABfaxxtBUZ5m/8XXT4sMp7PAcSqnKhkr6bBsUCwygUNEyB4cOw==
-    size: 132324960
+    sha512: oBMTa3PEf3gzHchYCtwdeg6uwB5QwZItPidwnfUTvbZ3ha7S6ZGrjuWuD/w95wmVILSgB/HMkIt5XlteE6supg==
+    size: 132321312
 path: RebarStudio-Setup-1.0.2.exe
-sha512: r1UeuI7qKv5CcMBF14Qlf2YFgQ2i122ttSB8ABfaxxtBUZ5m/8XXT4sMp7PAcSqnKhkr6bBsUCwygUNEyB4cOw==
-releaseDate: '2026-11-22T18:58:33.197Z'
+sha512: oBMTa3PEf3gzHchYCtwdeg6uwB5QwZItPidwnfUTvbZ3ha7S6ZGrjuWuD/w95wmVILSgB/HMkIt5XlteE6supg==
+releaseDate: '2026-11-22T19:25:33.815Z'
