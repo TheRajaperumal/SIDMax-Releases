@@ -1,11 +1,11 @@
 {
-  "version": "0.10.0",
-  "release_date": "2026-11-26",
+  "version": "0.0.1",
+  "release_date": "2026-11-27",
   "product_name": "SIDMax RebarCraft Companion",
-  "tag_name": "v0.10.0",
-  "download_url": "https://github.com/TheRajaperumal/SIDMax-Releases/releases/download/v0.10.0/SIDMax_Update.zip",
-  "installer_url": "https://github.com/TheRajaperumal/SIDMax-Releases/releases/download/v0.10.0/SIDMax_RDA_v0.10.0_Setup_WPF.exe",
-  "license_manager_url": "https://github.com/TheRajaperumal/SIDMax-Releases/releases/download/v0.10.0/SIDMax-License_Manager.exe",
+  "tag_name": "v0.0.1",
+  "download_url": "https://github.com/TheRajaperumal/SIDMax-Releases/releases/download/v0.0.1/SIDMax_Update.zip",
+  "installer_url": "https://github.com/TheRajaperumal/SIDMax-Releases/releases/download/v0.0.1/SIDMax_RDA_v0.0.1_Setup_WPF.exe",
+  "license_manager_url": "https://github.com/TheRajaperumal/SIDMax-Releases/releases/download/v0.0.1/SIDMax-License_Manager.exe",
   "releases_page_url": "https://github.com/TheRajaperumal/SIDMax-Releases/releases",
   "release_notes": "\u2022 Direct-from-ribbon Check for Updates with background auto-updater\n\u2022 Enforce 100% WPF modern CAD aesthetic (Zero-DCL policy)\n\u2022 Process-locking uninstaller interlock with automated cache scrubbing\n\u2022 Enhanced drawing history and command audit logging\n\u2022 38 tools and 90 commands operational",
   "mandatory": false
